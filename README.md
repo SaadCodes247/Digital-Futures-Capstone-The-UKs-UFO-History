@@ -1,4 +1,4 @@
-# Digital Future's Capstone Project - The UK's UFO History!
+# Digital Futures Capstone Project - The UK's UFO History!
 
 ## Background:
 
