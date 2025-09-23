@@ -1,4 +1,4 @@
-# Digital Future's Capstone Project - The UK's UFO History!
+# Digital Futures Capstone Project - The UK's UFO History!
 
 ## Background:
 
@@ -27,7 +27,7 @@ There were 3 main sources of data to create this project:
 
 ## Outcome!
 
-Having analysed 6000 sightings, I created an entertaining data journalism piece on the UK's UFO history for my digital futures capstone project!
+Having analysed 6000 sightings, I created an entertaining data journalism piece on the UK's UFO history for my Digital Futures capstone project!
 
 This was a great experience that taught me how to approach presenting text information using NLP to an audience, which was a brand new presentation style for me!
 
